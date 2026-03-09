@@ -1,0 +1,12 @@
+<mj-raw>
+  <meta name="color-scheme" content="light dark" />
+  <meta name="supported-color-schemes" content="light dark" />
+</mj-raw>
+
+<mj-attributes>
+  <mj-all font-family="Arial, sans-serif" />
+  <mj-text align="left" padding="0" />
+  <mj-section css-class="dark-wrapper" padding-top="20px" padding-right="20px" padding-bottom="20px" padding-left="20px" />
+  <mj-column padding="0" />
+  <mj-button inner-padding="0" />
+</mj-attributes>

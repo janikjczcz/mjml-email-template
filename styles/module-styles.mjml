@@ -1,0 +1,57 @@
+<mj-style inline="inline">
+  .sr-only {
+    position: absolute;
+    width: 0.1rem;
+    height: 0.1rem;
+    padding: 0;
+    margin: -0.1rem;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+  }
+
+  .body__bg {
+    background-color: #fafafa;
+    padding: 15px 0;
+  }
+
+  .dark-wrapper {
+    background-color: #fff;
+  }
+
+  /* Text Sizes  */
+
+  .text-size__m {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+  .heading__1 {
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    margin: 0;
+  }
+
+  /* Text Colors */
+  .text-color__red {
+    color: #f52a23 !important;
+  }
+  .text-color__white {
+    color: #ffffff !important;
+  }
+  .text-color__black {
+    color: #070707 !important;
+  }
+
+  .text-color__red a,
+  .text-color__white a,
+  .text-color__black a {
+    color: inherit !important;
+  }
+</mj-style>

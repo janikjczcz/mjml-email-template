@@ -1,0 +1,15 @@
+<mjml lang="sk">
+<mj-head>
+<mj-title>%emailTitle%</mj-title>
+<mj-include path="./styles/base-styles.mjml" />
+<mj-include path="./styles/module-styles.mjml" />
+</mj-head>
+  <mj-body css-class="body__bg">
+  
+
+
+    <mj-include path="./src/partials/hero.mjml" />
+   
+  
+  </mj-body>
+</mjml>

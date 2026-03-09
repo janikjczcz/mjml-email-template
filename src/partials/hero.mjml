@@ -1,0 +1,10 @@
+  <!-- Module name -->
+   
+        <mj-section role="presentation">
+          <mj-column width="100%" vertical-align="middle" role="presentation">
+            <mj-text>
+              <h1>MJML Email</br>Template</h1>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+    <!-- end Module name -->

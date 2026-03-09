@@ -1,0 +1,17 @@
+{
+  "name": "mjml-email-template",
+  "version": "1.0.0",
+  "description": "Email newsletter template",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js",
+    "watch-dev": "node build-dev.js"
+  },
+  "author": "Jaroslav Janik",
+  "dependencies": {
+    "mjml": "^4.15.3"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "type": "commonjs"
+}
